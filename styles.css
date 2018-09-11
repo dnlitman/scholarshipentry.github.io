@@ -1,0 +1,51 @@
+#name {
+  font-family: fantasy;
+  font-size: 25px;
+  color: #ffffff;
+  text-align: center;
+  background-color: #00aa33;
+  margin-left: 35px;
+  margin-right: 35px;
+  padding: 0px 35px 0px 35px;
+}
+
+#red {
+  border-radius: 0%;
+  height: 70px;
+  width: 70px;
+}
+
+img:hover {
+  transform: scale(1.2);
+  transition: all .5s;
+  }
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  border: 3px solid blue;
+  border-radius: 50%;
+}
+
+h1 {
+    text-align: center;
+    color: magenta;
+    font-family: fantasy;
+  }
+
+#main {
+  font-family: fantasy;
+  font-size: 20px;
+  padding: 0px 35px 50px 35px;
+}
+
+header {
+  background-color: #ddd;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
